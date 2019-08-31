@@ -1,2 +1,2 @@
 # grokking-algorithms
-code snippets from book
+code snippets from the book
